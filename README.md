@@ -27,5 +27,11 @@ command cp -R $_bashsource_tmp_dir/bashsource-HEAD/functions $__fish_config_dir
 
 </details>
 
+## Usage
+```fish
+# this opens a new fish shell with the sourced file
+bashsource .bashrc
+```
+
 [fish]: https://fishshell.com/
 [fisher]: https://github.com/jorgebucaran/fisher
